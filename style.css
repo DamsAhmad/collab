@@ -1,5 +1,18 @@
+body {
+    background-color:antiquewhite;
+}
 h1 {
-    color:chocolate;
+    color:rgb(73, 231, 152);
     text-align-last: center;
+    margin-left: 30px;
+}
+h2{
+    color: rgb(51, 48, 48);
+    text-align: left;
+    margin-left: 30px;
+}
+p{
+    color:brgb(51, 48, 48);
+    text-align: justify;
     margin-left: 30px;
 }
