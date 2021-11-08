@@ -12,6 +12,7 @@ body {
 #cover{
     background-image: url(cloud.jpg);
     background-size: cover;
+    background-position: center;
     height: 100vh;
 
 }
