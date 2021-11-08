@@ -1,28 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
 body {
-    background-color:rgb(255, 252, 248);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0;
+    font-family: Arial, "Helvetica Neue" , Helvetica, sans-serif;
+    font-size: 18px;
+    color:#d37d31;
+    line-height: 1.6;
 }
-.test{
-    width: 100%;
+#cover{
+    background-image: url(cloud.jpg);
     height: 100vh;
-    background-image: url("cloud.jpg");
-    background-size:cover;
-    background-position: center;
-    position: relative;
-    overflow: hidden;
-}
-h1 {
-    color:rgb(73, 231, 152);
-    text-align-last: center;
-    margin-left: 30px;
-}
-h2{
-    color: rgb(51, 48, 48);
-    text-align: left;
-    margin-left: 30px;
-}
-p{
-    color:brgb(51, 48, 48);
-    text-align: justify;
-    margin-left: 30px;
+
 }
