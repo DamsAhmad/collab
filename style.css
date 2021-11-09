@@ -6,7 +6,7 @@ body {
     margin:0;
     font-family: Arial, "Helvetica Neue" , Helvetica, sans-serif;
     font-size: 18px;
-    color:#7FC8A9;
+    color:rgba(78, 194, 145, 0.767);
     line-height: 1.6;
 }
 #cover{
